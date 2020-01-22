@@ -1,5 +1,5 @@
 getwd()
-setwd("C:/Users/rwfra/Desktop/Data Science/Goog/")
+setwd("C:/------/Desktop/Data Science/Goog/")
 
 install.packages("curl")
 library(curl)
